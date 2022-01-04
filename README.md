@@ -21,7 +21,11 @@ So whether you are a developper interested in our data or a partner willing to s
 
 If you'd rather get our remote jobs using our public API, please check [over here](https://github.com/remotive-io/remote-jobs-api).
 
-## Getting Remotive's live remote jobs: our feeds by category
+## I/ Getting Remotive's live remote jobs: our feeds by category
+
+Please note that XML Feed documentation and access is granted so that developers can share our jobs further. Please do not submit Remotive jobs to third Party websites, including but not limited to: Jooble, Neuvoo, Google Jobs, LinkedIn Jobs. 
+
+**Please link back to the URL found on Remotive AND mention Remotive as a source in order to Remotive to get traffic from your listing**. If you don't do that, we'll terminate your access, sorry! 
 
 Here are XML feeds by job categories:
 - [Sotware Development](https://remotive.io/remote-jobs/software-dev/feed)
@@ -39,7 +43,7 @@ Here are XML feeds by job categories:
 - [Writing](https://remotive.io/remote-jobs/writing/feed)
 - [All Others](https://remotive.io/remote-jobs/all-others/feed)
 
-## Sharing remote jobs with Remotive
+## II/ Sharing remote jobs with Remotive
 
 ### 1. Expected Data made available on feed
 

@@ -45,7 +45,15 @@ Here are XML feeds by job categories:
 
 ## II/ Sharing remote jobs with Remotive
 
-### 1. Expected Data made available on feed
+If you are a Remotive's partner and want to share remote jobs with us automatically through XML feed, you are in the right place!
+
+We are working with our partners both with:
+* organic/free remote jobs feeds 
+* premium/paid-for remote jobs feed
+
+Get in touch with us at hello@remotive.io for more details and to share your feed(s) with us.
+
+### 1. Expected Data to be made available on feed
 
 At Remotive we are interested to display jobs:
 - That are 100% remote

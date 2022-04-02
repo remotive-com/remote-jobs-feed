@@ -1,16 +1,16 @@
 <p align=center>
-<a href="https://remotive.io">
-<img src="https://remotive.io/logo"/>    
+<a href="https://remotive.com">
+<img src="https://remotive.com/logo"/>    
 </a>
 </p>
 
 # Remote Jobs Feeds
 
-## About remotive.io
+## About remotive.com
 We're one of the largest Remote Work Community. Check out our:
-- Our Remote [Job Board](https://remotive.io)
-- Our vibrant [Slack Community](https://remotive.io/community)
-- Read our [Manifesto](https://remotive.io/manifesto)!
+- Our Remote [Job Board](https://remotive.com)
+- Our vibrant [Slack Community](https://remotive.com/community)
+- Read our [Manifesto](https://remotive.com/manifesto)!
 
 
 At Remotive, we use XML feeds:
@@ -28,20 +28,20 @@ Please note that XML Feed documentation and access is granted so that developers
 **Please link back to the URL found on Remotive AND mention Remotive as a source in order to Remotive to get traffic from your listing**. If you don't do that, we'll terminate your access, sorry! 
 
 Here are XML feeds by job categories:
-- [Sotware Development](https://remotive.io/remote-jobs/software-dev/feed)
-- [Customer service](https://remotive.io/remote-jobs/customer-support/feed)
-- [Design](https://remotive.io/remote-jobs/design/feed)
-- [Sales](https://remotive.io/remote-jobs/sales/feed)
-- [Marketing](https://remotive.io/remote-jobs/marketing/feed)
-- [Product](https://remotive.io/remote-jobs/product/feed)
-- [Business](https://remotive.io/remote-jobs/business/feed)
-- [Data](https://remotive.io/remote-jobs/data/feed)
-- [Devops/Sysadmin](https://remotive.io/remote-jobs/devops/feed)
-- [Finance/Legal](https://remotive.io/remote-jobs/finance-legal/feed)
-- [Human Resources](https://remotive.io/remote-jobs/hr/feed)
-- [QA](https://remotive.io/remote-jobs/qa/feed)
-- [Writing](https://remotive.io/remote-jobs/writing/feed)
-- [All Others](https://remotive.io/remote-jobs/all-others/feed)
+- [Sotware Development](https://remotive.com/remote-jobs/software-dev/feed)
+- [Customer service](https://remotive.com/remote-jobs/customer-support/feed)
+- [Design](https://remotive.com/remote-jobs/design/feed)
+- [Sales](https://remotive.com/remote-jobs/sales/feed)
+- [Marketing](https://remotive.com/remote-jobs/marketing/feed)
+- [Product](https://remotive.com/remote-jobs/product/feed)
+- [Business](https://remotive.com/remote-jobs/business/feed)
+- [Data](https://remotive.com/remote-jobs/data/feed)
+- [Devops/Sysadmin](https://remotive.com/remote-jobs/devops/feed)
+- [Finance/Legal](https://remotive.com/remote-jobs/finance-legal/feed)
+- [Human Resources](https://remotive.com/remote-jobs/hr/feed)
+- [QA](https://remotive.com/remote-jobs/qa/feed)
+- [Writing](https://remotive.com/remote-jobs/writing/feed)
+- [All Others](https://remotive.com/remote-jobs/all-others/feed)
 
 ## II/ Sharing remote jobs with Remotive
 
@@ -51,7 +51,7 @@ We are working with our partners both with:
 * organic/free remote jobs feeds 
 * premium/paid-for remote jobs feed
 
-Get in touch with us at hello@remotive.io for more details and to share your feed(s) with us.
+Get in touch with us at hello@remotive.com for more details and to share your feed(s) with us.
 
 ### 1. Expected Data to be made available on feed
 
@@ -59,7 +59,7 @@ At Remotive we are interested to display jobs:
 - That are 100% remote
 - More permanent positions (full-time, part-time, contract), less temporary freelance gigs
 - In English language
-- Mostly in IT domain / tech / web / software companies (see our job categories on https://remotive.io)
+- Mostly in IT domain / tech / web / software companies (see our job categories on https://remotive.com)
 
 ![Remotive's categories](/images/categories.png)
 
